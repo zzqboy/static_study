@@ -15,8 +15,8 @@
 代码: https://github.com/acrafter/static_study/blob/master/decision_tree/decision_tree.py  
 ## 逻辑回归  
 笔记:   
-https://github.com/acrafter/static_study/blob/master/logistic_regression/浅析Logistic Regression.pdf 来源： https://chenrudan.github.io/blog/2016/01/09/logisticregression.html  
-https://github.com/acrafter/static_study/blob/master/logistic_regression/Logistic Regression 基础.pdf 来源： http://www.cnblogs.com/sparkwen/p/3441197.html  
+https://github.com/acrafter/static_study/blob/master/logistic_regression/浅析Logistic%20Regression.pdf 来源： https://chenrudan.github.io/blog/2016/01/09/logisticregression.html  
+https://github.com/acrafter/static_study/blob/master/logistic_regression/Logistic%20Regression 基础.pdf 来源： http://www.cnblogs.com/sparkwen/p/3441197.html  
 代码  
 https://github.com/acrafter/static_study/blob/master/logistic_regression/logistic_regression.py  
 ## 最大熵 
@@ -35,4 +35,4 @@ https://github.com/acrafter/static_study/blob/master/support_vector_machine/smo.
 笔记：  
 https://github.com/acrafter/static_study/blob/master/adaboost/提升方法AdaBoost.pdf  
 代码：  
-https://github.com/acrafter/static_study/blob/master/support_vector_machine/adaboost/adaboost.py  
+https://github.com/acrafter/static_study/blob/master/adaboost/adaboost.py  

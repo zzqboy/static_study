@@ -1,2 +1,38 @@
-# static_study
-è¿™é‡Œæ˜¯ã€Šç»Ÿè®¡å­¦ä¹ æ–¹æ³•ã€‹çš„è¯»ä¹¦ç¬”è®°ï¼Œå°è¯•è‡ªå·±å®žçŽ°é‡Œé¢çš„è½®å­ã€‚å…¶å®žä»»ä½•è‡ªå·±å®žçŽ°çš„è½®å­å¹¶ä¸ä¸€å®šå…·å¤‡å®žé™…åº”ç”¨çš„èƒ½åŠ›ï¼Œç›®çš„æ˜¯é€šè¿‡ä»£ç æ¥å­¦ä¹ ç®—æ³•ï¼
+# ¡¶Í³¼ÆÑ§Ï°·½·¨¡·µÄ´úÂëÊµÏÖ¡£  
+ÕâÀïÊÇ¡¶Í³¼ÆÑ§Ï°·½·¨¡·µÄ¶ÁÊé±Ê¼Ç£¬³¢ÊÔ×Ô¼ºÊµÏÖÀïÃæµÄÂÖ×Ó¡£ÆäÊµÈÎºÎ×Ô¼ºÊµÏÖµÄÂÖ×Ó²¢²»Ò»¶¨¾ß±¸Êµ¼ÊÓ¦ÓÃµÄÄÜÁ¦£¬Ä¿µÄÊÇÍ¨¹ý´úÂëÀ´Ñ§Ï°Ëã·¨£¡:smile:  
+²»È«ÊÇ×Ô¼ºÐ´£¬²Î¿¼¾ùÓÐËµÃ÷£¡O(¡É_¡É)O
+# ±Ê¼ÇÓë´úÂë  
+## ¸ÐÖª»ú  
+´úÂë: https://github.com/acrafter/static_study/blob/master/perceptron.py  
+## KNN  
+ÓÃkdÊ÷À´²éÕÒk¸ö½üÁÚµã  
+´úÂë: https://github.com/acrafter/static_study/blob/master/knn/kd_tree.py   
+## ÆÓËØ±´Ò¶Ë¹  
+ÎªÊ²Ã´½ÐÆÓËØ±´Ò¶Ë¹ÄØ£¿  
+´úÂë: https://github.com/acrafter/static_study/blob/master/Bayes.py   
+## ¾ö²ßÊ÷  
+±Ê¼Ç: https://github.com/acrafter/static_study/blob/master/decision_tree/¾ö²ßÊ÷.pdf  
+´úÂë: https://github.com/acrafter/static_study/blob/master/decision_tree/decision_tree.py  
+## Âß¼­»Ø¹é  
+±Ê¼Ç:   
+https://github.com/acrafter/static_study/blob/master/logistic_regression/Ç³ÎöLogistic Regression.pdf À´Ô´£º https://chenrudan.github.io/blog/2016/01/09/logisticregression.html  
+https://github.com/acrafter/static_study/blob/master/logistic_regression/Logistic Regression »ù´¡.pdf À´Ô´£º http://www.cnblogs.com/sparkwen/p/3441197.html  
+´úÂë  
+https://github.com/acrafter/static_study/blob/master/logistic_regression/logistic_regression.py  
+## ×î´óìØ 
+±Ê¼Ç:  
+²Î¿¼×Ôvimsky.com  
+https://github.com/acrafter/static_study/blob/master/max_entropy/½Ò¿ª»úÆ÷Ñ§Ï°µÄÃæÉ´£º×î´óìØÄ£ÐÍ100ÐÐ´úÂëÊµÏÖ[Python°æ] - ´¿¾»µÄÌì¿Õ.pdf  
+https://github.com/acrafter/static_study/blob/master/max_entropy/×î´óìØÄ£ÐÍ¼ò½é[Àý×Ó+ÍÆµ¼+GISÇó½â].pdf  
+´úÂë£º  
+https://github.com/acrafter/static_study/blob/master/max_entropy/max_ent.py  
+## Ö§³ÖÏòÁ¿»ú  
+±Ê¼Ç£º  
+https://github.com/acrafter/static_study/blob/master/support_vector_machine/Ö§³ÖÏòÁ¿»ú.pdf  
+´úÂë£º  
+https://github.com/acrafter/static_study/blob/master/support_vector_machine/smo.py  
+## ÌáÉý·½·¨  
+±Ê¼Ç£º  
+https://github.com/acrafter/static_study/blob/master/adaboost/ÌáÉý·½·¨AdaBoost.pdf  
+´úÂë£º  
+https://github.com/acrafter/static_study/blob/master/support_vector_machine/adaboost/adaboost.py  

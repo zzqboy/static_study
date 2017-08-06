@@ -36,3 +36,6 @@ https://github.com/acrafter/static_study/blob/master/support_vector_machine/smo.
 https://github.com/acrafter/static_study/blob/master/adaboost/提升方法AdaBoost.pdf  
 代码：  
 https://github.com/acrafter/static_study/blob/master/adaboost/adaboost.py  
+## 隐马模型
+代码：  
+https://github.com/acrafter/static_study/blob/master/hmm/hmm.py

@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-author: acrafter
+author: zzqboy
 date: 17-4-6
 《统计学习方法》KNN算法
 """

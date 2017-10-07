@@ -1,6 +1,6 @@
 # encoding:utf-8
 """
-@author: Acrafter
+@author: zzqboy
 @time: 2017/4/4 15:28
 感知机模型的实现
 """

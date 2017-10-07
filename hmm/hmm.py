@@ -1,6 +1,6 @@
 # encoding:utf-8
 """
-@author: Acrafter
+@author: zzqboy
 @time: 2017/7/16 15:06
 隐马可夫模型
 """

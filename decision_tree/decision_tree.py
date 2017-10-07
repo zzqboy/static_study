@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-author: acrafter
+author: zzqboy
 date: 17-4-26
 决策树，id3
 """

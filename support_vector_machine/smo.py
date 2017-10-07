@@ -1,6 +1,6 @@
 # encoding:utf-8
 """
-@author: zhengziquan
+@author: zzqboy
 @time: 2017/1/2 21:25
 """
 from numpy import *

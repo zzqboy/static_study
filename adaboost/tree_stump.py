@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-author: acrafter
+author: zzqboy
 date: 17-5-26
 单个结点的树桩,训练过程为CART树的过程
 """

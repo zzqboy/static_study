@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-author: acrafter
+author: zzqboy
 date: 17-4-19
 贝叶斯分类器,这里没有加平滑
 """

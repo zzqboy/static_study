@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-author: acrafter
+author: zzqboy
 date: 17-5-24
 最大熵的GIS算法实现，参考https://vimsky.com/article/714.html
 """

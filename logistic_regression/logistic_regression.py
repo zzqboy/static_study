@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-author: acrafter
+author: zzqboy
 date: 17-5-10
 用随机梯度下降法学习逻辑回归, 参考《机器学习实战》，但是感觉里面写的不好
 """

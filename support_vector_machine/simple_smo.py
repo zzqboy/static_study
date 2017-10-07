@@ -1,6 +1,6 @@
 # encoding:utf-8
 """
-@author: zhengziquan
+@author: zzqboy
 @time: 2017/1/1 16:42
 简化版支持向量机
 """

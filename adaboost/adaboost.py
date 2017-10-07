@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-author: acrafter
+author: zzqboy
 date: 17-5-26
 adaboost用决策树做基函数等于提升树
 """
